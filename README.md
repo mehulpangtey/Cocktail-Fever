@@ -5,7 +5,7 @@ This repository is a place for me to store cocktail recipes that I use and/or cr
 
 ## Index
 
-* [Hot](toddy.md)
+
 * [Rum](rum.md)
 * [Cognac](cognac.md)
 * [Gin](gin.md)

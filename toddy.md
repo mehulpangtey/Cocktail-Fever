@@ -1,6 +1,7 @@
 ## Toddy can be with Rum, Whiskey or brandy - choose as peryour taste
 
-### The Classic Hot Toddy
+> The Classic Hot Toddy
+
 * 1½ ounce brown liquor such as brandy, whiskey or rum
 * 1 tablespoon honey
 * ½ ounce lemon juice
@@ -11,7 +12,8 @@
 * Combined the first four ingredients into the bottom of a warmed mug.
 * Garnish with the lemon, cinnamon stick or star anise.
 
-### Yule Tide Toddy
+> Yule Tide Toddy
+
 * 2 ounces hot water
 * 1½ ounces Makers Mark Bourbon
 * ½ ounce Amaro Abano
@@ -24,13 +26,14 @@
 * Stir well, and garnish with cinnamon stick.
 
 
-### The Mexican Buttered Toddy
+>  The Mexican Buttered Toddy
 
-##This drink is a one-two punch of a spiced hot toddy combined with the luscious, equally comforting hot buttered rum, but features cocoa-infused Tequila instead.
+This drink is a one-two punch of a spiced hot toddy combined with the luscious, equally comforting hot buttered rum, but features cocoa-infused Tequila instead.
 
 ---
 
-##For the Hot Buttered Batter
+###For the Hot Buttered Batter
+
 * 1 cup dark brown sugar
 * 4 ounces unsalted butter, room temperature
 * 1½ teaspoons ground cinnamon
@@ -54,7 +57,7 @@
 * Add in Tequila and cream.
 * Garnish with a sprinkle of fresh grated cinnamon and nutmeg.
 
-###Chamomile Toddy
+> Chamomile Toddy
 
 * 1½ ounce Brandy
 * ½ ounce honey syrup  (equal parts honey and warm water, stirred to combine)
